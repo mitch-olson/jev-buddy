@@ -1,0 +1,13 @@
+{
+  "name": "jev-chat",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "chat": "bun src/chat.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "ai": "^7.0.109",
+    "zod": "^4.6.5"
+  }
+}
