@@ -3,8 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "chat": "bun src/chat.ts",
-    "test": "bun test"
+    "chat": "bun src/chat.ts"
   },
   "dependencies": {
     "ai": "^7.0.109",
